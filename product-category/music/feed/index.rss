@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Music &#8211; Imperion</title>
+	<atom:link href="https://ld-wp73.template-help.com/imperion/imperion/product-category/music/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ld-wp73.template-help.com/imperion/imperion</link>
+	<description>Premium WordPress site</description>
+	<lastBuildDate>Sat, 31 Aug 2019 08:16:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://ld-wp73.template-help.com/imperion/imperion/wp-content/uploads/2017/09/cropped-favicon-1-32x32.png</url>
+	<title>Music &#8211; Imperion</title>
+	<link>https://ld-wp73.template-help.com/imperion/imperion</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Lobster</title>
+		<link>https://ld-wp73.template-help.com/imperion/imperion/product/the-lobster/</link>
+				<comments>https://ld-wp73.template-help.com/imperion/imperion/product/the-lobster/#respond</comments>
+				<pubDate>Tue, 22 Aug 2017 16:02:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_imperion/imperion_v1/?post_type=product&#038;p=716</guid>
+				<description><![CDATA[<b>Albums </b>- Kenny Wayne Shepherd. Lay It on Down - the author shoots wide on its upcoming eighth album. Lay It On Down is also the second consecutive album Shepherd has recorded in his hometown of Shreveport, La., with producer Marshall Altman at Blade Studios.]]></description>
+								<content:encoded><![CDATA[<p><b>Albums </b><span style="font-weight: 400;">&#8211; Kenny Wayne Shepherd. Lay It on Down &#8211; the author shoots wide on its upcoming eighth album. Lay It On Down is also the second consecutive album Shepherd has recorded in his hometown of Shreveport, La., with producer Marshall Altman at Blade Studios. </span></p>
+<p><span style="font-weight: 400;">Kenny Wayne Shepherd is already considered to be at the forefront of contemporary blues. This time around, Kenny applied his talents to writing by woodshedding with several prominent Nashville hit song-writing teams (Keith Stegall, Mark Selby &amp; Tia Sillers, Marshall Altman, Dylan Altman &amp; Danny Myrick). Marrying these songs with his trademark guitar-playing will help expand his already growing base. </span></p>
+<p><span style="font-weight: 400;">Shepherd’s obvious attention to and insistence on exceptional material with musical, if perhaps not always lyrical, inventiveness continues to impress, and 22 years into his career raises him and Lay It On Down above his plentiful competition.  </span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://ld-wp73.template-help.com/imperion/imperion/product/the-lobster/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

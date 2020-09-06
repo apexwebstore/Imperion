@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Posters &#8211; Imperion</title>
+	<atom:link href="https://ld-wp73.template-help.com/imperion/imperion/product-category/posters/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ld-wp73.template-help.com/imperion/imperion</link>
+	<description>Premium WordPress site</description>
+	<lastBuildDate>Sat, 31 Aug 2019 08:18:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://ld-wp73.template-help.com/imperion/imperion/wp-content/uploads/2017/09/cropped-favicon-1-32x32.png</url>
+	<title>Posters &#8211; Imperion</title>
+	<link>https://ld-wp73.template-help.com/imperion/imperion</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Complete Sherlock Holmes</title>
+		<link>https://ld-wp73.template-help.com/imperion/imperion/product/the-complete-sherlock-holmes/</link>
+				<comments>https://ld-wp73.template-help.com/imperion/imperion/product/the-complete-sherlock-holmes/#respond</comments>
+				<pubDate>Tue, 22 Aug 2017 15:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_imperion/imperion_v1/?post_type=product&#038;p=684</guid>
+				<description><![CDATA[Yet a true leader will find it difficult to get anywhere without some basic people management skills. He or she will seek to create relaxed workplaces in which people have all the time they need to pursue important goals. This sense of relaxed purpose arises because everyone knows exactly what their role is; there is both transparency and clarity of purpose.]]></description>
+								<content:encoded><![CDATA[<p><b>The One Minute Manager</b><span style="font-weight: 400;"> &#8211; This book by Kenneth Blanchard  is unlike any other book of its genre. It is written in a story format. Opening pages arouse such kind of curiosity that it make you jump straight into it. In this 100-page story, a man is in search of an effective manager. Throughout his journey he learns many lessons.</span></p>
+<p><span style="font-weight: 400;">A young man searches all over the world for an example of a great manager. He wants to work for one and learn how to become one. But most of the workplaces he has seen do not provide any great inspiration. He meets hard-nosed managers who get things done but who the staff do not much like, and nice managers who love their staff but do not pay enough attention to the bottom line.</span></p>
+<p><span style="font-weight: 400;">Yet a true leader will find it difficult to get anywhere without some basic people management skills. He or she will seek to create relaxed workplaces in which people have all the time they need to pursue important goals. This sense of relaxed purpose arises because everyone knows exactly what their role is; there is both transparency and clarity of purpose. </span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://ld-wp73.template-help.com/imperion/imperion/product/the-complete-sherlock-holmes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Adventure Collection</title>
+		<link>https://ld-wp73.template-help.com/imperion/imperion/product/the-adventure-collection/</link>
+				<comments>https://ld-wp73.template-help.com/imperion/imperion/product/the-adventure-collection/#respond</comments>
+				<pubDate>Tue, 22 Aug 2017 14:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ld-wp.template-help.com/wordpress_imperion/imperion_v1/?post_type=product&#038;p=680</guid>
+				<description><![CDATA[According to over 15 years research on the front lines of the workplace, Bruce Tulgan, author of "It’s Okay to be the Boss," with his fearless attitude to life and work is affecting managers at all levels of the organizations and in all industries.]]></description>
+								<content:encoded><![CDATA[<p><b>It’s OK to Be the Boss</b><span style="font-weight: 400;"> &#8211;  do you feel you don’t have enough time to manage your people? Do you avoid interacting with some employees because you hate the dreaded confrontations that often follow? Do you secretly wish you could be more in control but don’t know where to start? This stunning book will help you to answer all those questions!</span></p>
+<p><span style="font-weight: 400;">According to over 15 years research on the front lines of the workplace, Bruce Tulgan, author of &#8220;It’s Okay to be the Boss,&#8221; with his fearless attitude to life and work is affecting managers at all levels of the organizations and in all industries. </span></p>
+<p><span style="font-weight: 400;">Based on his extensive research the author suggests another way—a clear, step-by-step guide to becoming the strong manager employees need. It challenges bosses everywhere to spell out expectations, tell employees exactly what to do and how to do it, monitor and measure performance constantly, and correct failure quickly and reward success even more quickly. </span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://ld-wp73.template-help.com/imperion/imperion/product/the-adventure-collection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
